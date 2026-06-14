@@ -1,7 +1,6 @@
 const itensGaleria = [
     { "arquivo": "itm (1).jpg", "nome": "Chavenas café", "name": "", "disponivel": true },
     { "arquivo": "itm (2).jpg", "nome": "Tapete de treino", "name": "", "disponivel": true },
-    { "arquivo": "itm (3).jpg", "nome": "Smart TV 32'", "name": "", "disponivel": true },
     { "arquivo": "itm (4).jpg", "nome": "Torradeira", "name": "", "disponivel": true },
     { "arquivo": "itm (5).jpg", "nome": "Panela", "name": "", "disponivel": true },
     { "arquivo": "itm (6).jpg", "nome": "Terrina Pirex", "name": "", "disponivel": true },
