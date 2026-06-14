@@ -12,5 +12,6 @@ const itensGaleria = [
     { "arquivo": "itm (13).jpg", "nome": "Ambientador", "name": "", "disponivel": true },
     { "arquivo": "itm (14).jpg", "nome": "Taças", "name": "", "disponivel": true },
     { "arquivo": "itm (16).jpg", "nome": "Chaleira", "name": "", "disponivel": true },
-    { "arquivo": "itm (17).jpg", "nome": "Tostadeira", "name": "", "disponivel": true }
+    { "arquivo": "itm (17).jpg", "nome": "Tostadeira", "name": "", "disponivel": true },
+    { "arquivo": "itm (18).jpg", "nome": "Forma circular", "name": "", "disponivel": true }
 ];
